@@ -6,3 +6,7 @@ ADD -
 Baixando o Projeto:
 1 - git clone url(do projeto).
 2 - git pull -- Atualizar o projeto.
+
+
+Comandos:
+1 - git status -- mostrar a branch corrente do projeto.
