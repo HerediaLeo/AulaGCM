@@ -1,0 +1,7 @@
+ADD -
+1 - git add . -- o ponto é para committar todos os arquivos do repositório.
+2 - git commit -m "texto" -- no texto é bom colocar o que foi alterado neste commit.
+3 - git push -- comando para subir as alterações para a branch.
+
+Baixando o Projeto:
+1 - git clone url(do projeto).
