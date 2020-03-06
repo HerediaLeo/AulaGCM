@@ -5,3 +5,4 @@ ADD -
 
 Baixando o Projeto:
 1 - git clone url(do projeto).
+2 - git pull -- Atualizar o projeto.
