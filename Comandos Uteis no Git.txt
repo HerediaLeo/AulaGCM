@@ -10,3 +10,6 @@ Baixando o Projeto:
 
 Comandos:
 1 - git status -- mostrar a branch corrente do projeto.
+
+Após o git log:
+para sair do ":", pressionar a tecla Q
